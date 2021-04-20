@@ -1,0 +1,33 @@
+body {
+    background-color: palevioletred;
+
+}
+h6 {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+#taskInputDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#taskForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#taskInput {
+    height: 50px;
+    width: 400px;
+    font-size: 45px;
+}
+#taskButton {
+    height: 50px;
+    width: 65px;
+}
